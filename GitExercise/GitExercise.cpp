@@ -6,6 +6,8 @@
 int main()
 {
     std::cout << "Quick Demo for GitHub Demo\n";
+
+    std::cout << "Adding Changes\n";
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
